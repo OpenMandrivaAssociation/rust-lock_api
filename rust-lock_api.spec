@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.4.5
-Release:        1
+Release:        2
 Summary:        Wrappers to create fully-featured Mutex and RwLock types
 
 # Upstream license specification: Apache-2.0/MIT
